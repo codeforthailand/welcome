@@ -15,6 +15,10 @@
 - [อาจารย์และนักวิจัยในไทยที่ทำงานวิจัยเกี่ยวกับคอมพิวเตอร์และสาขาที่เกี่ยวข้อง (Informatics Reseachers in Thailand)](https://github.com/codeforthailand/informatics-researchers-in-thailand)
 - [รายชื่อทุนการศึกษาทางด้านคอมพิวเตอร์และสาขาที่เกี่ยวข้อง](https://codeforthailand.github.io/study-abroad/) ([โค้ด](https://github.com/codeforthailand/study-abroad))
 
+#### macOS
+
+- [Siam IPA](https://github.com/codeforthailand/homebrew-siam-ipa) - homebrew tap สำหรับฟอนท์และพจนานุกรมภาษาไทย
+
 ## โปรเจคที่เสร็จสิ้นแล้ว
 
 #### การเลือกตั้ง/งานรัฐสภา

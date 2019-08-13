@@ -31,6 +31,6 @@
 
 ## ร่วมพัฒนาโปรเจคไปกับเรา
 
-โค้ดและข้อมูลที่จัดทำขึ้นภายใต้ Code for Thailand ถูกอนุญาตให้แก้ไข ทำซ้ำ และเผยแพร่ได้ ภายใต้ [MIT License](https://opensource.org/licenses/MIT) (สำหรับโค้ด) และ Creative Commons [BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0) (สำหรับข้อมูล)
+โค้ดและข้อมูลที่จัดทำขึ้นภายใต้ Code for Thailand ถูกอนุญาตให้แก้ไข ทำซ้ำ และเผยแพร่ได้ ภายใต้ [MIT License](https://opensource.org/licenses/MIT) (สำหรับโค้ด) และ Creative Commons [BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0) (สำหรับข้อมูล) นอกจากจะระบุไว้เป็นอย่างอื่น กรุณาตรวจสอบจากโค้ดและข้อมูลของแต่ละโปรเจคอีกครั้งหนึ่ง
 
 หากคุณสนใจร่วมพัฒนากับเราไม่ว่าจะเป็นโปรเจคใดก็ตาม คุณสามารถสร้าง Issue หรือ Pull Request ใหม่ลงใน GitHub repository ของแต่ละโปรเจคได้ทันที

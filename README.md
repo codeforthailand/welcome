@@ -15,8 +15,9 @@
 - [อาจารย์และนักวิจัยในไทยที่ทำงานวิจัยเกี่ยวกับคอมพิวเตอร์และสาขาที่เกี่ยวข้อง (Informatics Reseachers in Thailand)](https://github.com/codeforthailand/informatics-researchers-in-thailand)
 - [รายชื่อทุนการศึกษาทางด้านคอมพิวเตอร์และสาขาที่เกี่ยวข้อง](https://codeforthailand.github.io/study-abroad/) ([โค้ด](https://github.com/codeforthailand/study-abroad))
 
-#### macOS
+#### อื่นๆ
 
+- [Pedigree Mate](https://codeforthailand.github.io/pedigree-mate/) ([โค้ด](https://github.com/codeforthailand/pedigree-mate)) - โปรแกรมหาคู่สัตว์ที่มีบรรพบุรุษร่วมกัน พัฒนาร่วมกับ[ศูนย์วิจัยและพัฒนาสัตว์ปีก สำนักพัฒนาพันธุ์สัตว์ กรมปศุสัตว์](https://www.facebook.com/PoultryResearchAndDevelopmentCenter/)
 - [Siam IPA](https://github.com/codeforthailand/homebrew-siam-ipa) - homebrew tap สำหรับฟอนท์และพจนานุกรมภาษาไทย
 
 ## โปรเจคที่เสร็จสิ้นแล้ว

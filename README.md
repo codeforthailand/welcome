@@ -17,7 +17,7 @@
 
 #### อื่นๆ
 
-- [Pedigree Mate](https://codeforthailand.github.io/pedigree-mate/) ([โค้ด](https://github.com/codeforthailand/pedigree-mate)) - ระบบสืบค้นสายพันธุ์สัตว์ พัฒนาร่วมกับ[ศูนย์วิจัยและพัฒนาสัตว์ปีก สำนักพัฒนาพันธุ์สัตว์ กรมปศุสัตว์](https://www.facebook.com/PoultryResearchAndDevelopmentCenter/)
+- [Pedigree Mate](https://codeforthailand.github.io/pedigree-mate/) ([โค้ด](https://github.com/codeforthailand/pedigree-mate)) - โปรแกรมหาคู่สัตว์ที่มีบรรพบุรุษร่วมกัน พัฒนาร่วมกับ[ศูนย์วิจัยและพัฒนาสัตว์ปีก สำนักพัฒนาพันธุ์สัตว์ กรมปศุสัตว์](https://www.facebook.com/PoultryResearchAndDevelopmentCenter/)
 - [Siam IPA](https://github.com/codeforthailand/homebrew-siam-ipa) - homebrew tap สำหรับฟอนท์และพจนานุกรมภาษาไทย
 
 ## โปรเจคที่เสร็จสิ้นแล้ว

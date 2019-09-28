@@ -17,6 +17,7 @@
 
 #### อื่นๆ
 
+- [Databuri](https://github.com/codeforthailand/databuri) - เข้าถึง Public API ของประเทศไทยผ่าน python package ตัวเดียว
 - [Pedigree Mate](https://codeforthailand.github.io/pedigree-mate/) ([โค้ด](https://github.com/codeforthailand/pedigree-mate)) - โปรแกรมหาคู่สัตว์ที่มีบรรพบุรุษร่วมกัน พัฒนาร่วมกับ[ศูนย์วิจัยและพัฒนาสัตว์ปีก สำนักพัฒนาพันธุ์สัตว์ กรมปศุสัตว์](https://www.facebook.com/PoultryResearchAndDevelopmentCenter/)
 - [Siam IPA](https://github.com/codeforthailand/homebrew-siam-ipa) - homebrew tap สำหรับฟอนท์และพจนานุกรมภาษาไทย
 - [สถิติโมบายแอพพลิเคชันของภาครัฐ](https://github.com/codeforthailand/dataset-gov-app-statistics)
